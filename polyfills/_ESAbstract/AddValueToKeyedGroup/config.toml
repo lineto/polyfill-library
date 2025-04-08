@@ -1,7 +1,7 @@
 dependencies = [
-	"_ESAbstract.CodePointAt",
+  "_ESAbstract.SameValue",
 ]
-spec = "https://tc39.es/ecma262/#sec-advancestringindex"
+spec = "https://tc39.es/ecma262/#sec-add-value-to-keyed-group"
 
 [browsers]
 android = "*"

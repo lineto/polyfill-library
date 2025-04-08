@@ -1,7 +1,4 @@
-dependencies = [
-	"_ESAbstract.CodePointAt",
-]
-spec = "https://tc39.es/ecma262/#sec-advancestringindex"
+spec = "https://tc39.es/ecma262/#sec-utf16decodesurrogatepair"
 
 [browsers]
 android = "*"
